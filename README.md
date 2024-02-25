@@ -56,9 +56,14 @@ RAG:
 
 - [https://www.youtube.com/watch?v=wBhY-7B2jdY](https://www.youtube.com/watch?v=wBhY-7B2jdY "smartCard-inline")
 - [https://www.canva.com/design/DAFw0D8y038/5Yh9MA2XXd2Lfr2thcsuLA/edit](https://www.canva.com/design/DAFw0D8y038/5Yh9MA2XXd2Lfr2thcsuLA/edit "smartCard-inline")
-- [https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930 "smartCard-inline")
+- ⭐[https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930 "smartCard-inline")
   - [https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/advanced_rag.ipynb](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/retrieval-augmented-generation/advanced_rag.ipynb "‌")
 - ⭐[https://howaibuildthis.substack.com/archive?sort=new](https://howaibuildthis.substack.com/archive?sort=new "smartCard-inline")
+- ⭐[https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c "‌")
+- [https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b "smartCard-inline")
+- [https://martinfowler.com/articles/engineering-practices-llm.html](https://martinfowler.com/articles/engineering-practices-llm.html "smartCard-inline")
+- [https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2](https://medium.com/towards-data-science/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2 "smartCard-inline")
+- SQL Database: [https://vanna.ai/docs/](https://vanna.ai/docs/ "smartCard-inline")
 
 Chunking (Token size):
 
@@ -67,6 +72,13 @@ Chunking (Token size):
 - ✅ [Pinecone: Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/ "‌")
 - [https://python.langchain.com/docs/modules/data_connection/document_transformers/](https://python.langchain.com/docs/modules/data_connection/document_transformers/ "smartCard-inline")
 
+RAG Evaluation:
+
+- [https://denyslazarenko.github.io/2024/01/14/rag_pipeline.html](https://denyslazarenko.github.io/2024/01/14/rag_pipeline.html "smartCard-inline")
+- [https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a "‌")
+
+‌
+
 # LLM General
 
 Pydantic for LLM:
@@ -74,3 +86,4 @@ Pydantic for LLM:
 - [https://blog.pydantic.dev/blog/2024/01/04/steering-large-language-models-with-pydantic/](https://blog.pydantic.dev/blog/2024/01/04/steering-large-language-models-with-pydantic/ "smartCard-inline")
 - [https://blog.pydantic.dev/blog/2024/01/18/llm-validation/](https://blog.pydantic.dev/blog/2024/01/18/llm-validation/ "smartCard-inline")
 - [https://jxnl.github.io/instructor/](https://jxnl.github.io/instructor/ "smartCard-inline")
+- ⭐[https://huggingface.co/learn/cookbook/index](https://huggingface.co/learn/cookbook/index "smartCard-inline")
